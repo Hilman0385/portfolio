@@ -1,0 +1,25 @@
+ 
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+.jumbotron-project{
+    background-color: #e2edff;
+    padding-top: 0.5px;
+}
+
+.nav-link{
+    color: white;
+}
+
+#projects{
+
+    background-color: #e2edff;
+}
+
+/* 
+section {
+    padding-top: 5rem;
+} */
